@@ -1,4 +1,4 @@
-//import io.github.bonigarcia.wdm.WebDriverManager;
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -12,10 +12,10 @@ public class lab1 {
 
     @BeforeClass
     public void prepareDriver() {
-        //WebDriverManager.firefoxdriver().setup();
+        WebDriverManager.firefoxdriver().setup();
         driver = new FirefoxDriver();
         //driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        System.setProperty("webdriver.firefox.driver", "C:\\Users\\ASUS\\Downloads\\geckodriver-v0.26.0-win64\\geckodriver.exe");
+        System.setProperty("webdriver.firefox.driver", "C:\\Users\\ASUS\\Documents\\IdeaProjects\\libs\\geckodriver-v0.26.0-win64\\geckodriver.exe");
     }
 
     @Test

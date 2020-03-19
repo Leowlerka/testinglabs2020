@@ -12,6 +12,7 @@
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>3.141.59</version>
+            <systemPath>C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\lib\selenium-server-standalone-3.141.59.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -23,6 +24,7 @@
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>3.8.1</version>
+            <systemPath>C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\lib\webdrivermanager-3.7.1.jar</systemPath>
             <scope>test</scope>
         </dependency>
     </dependencies>
