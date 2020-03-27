@@ -35,7 +35,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,12 +49,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.lab1.search">
-    <configuration name="lab1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.myshowsprofileTest">
+    <configuration name="jetpacktravelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab2Test" />
+      <option name="MAIN_CLASS_NAME" value="lab2Test.jetpacktravelTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jetpacktravelTest.testCountry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinglabs2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab2Test" />
+      <option name="MAIN_CLASS_NAME" value="lab2Test.jetpacktravelTest" />
+      <option name="METHOD_NAME" value="testCountry" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,10 +91,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="myshowsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinglabs2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab2Test" />
+      <option name="MAIN_CLASS_NAME" value="lab2Test.myshowsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myshowsprofileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinglabs2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab2Test" />
+      <option name="MAIN_CLASS_NAME" value="lab2Test.myshowsprofileTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.myshowsprofileTest" />
+        <item itemvalue="JUnit.jetpacktravelTest" />
+        <item itemvalue="JUnit.myshowsTest" />
+        <item itemvalue="JUnit.jetpacktravelTest.testCountry" />
         <item itemvalue="JUnit.lab1.search" />
-        <item itemvalue="JUnit.lab1" />
       </list>
     </recent_temporary>
   </component>
