@@ -31,7 +31,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs/selenium-server-standalone-3.141.59.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs/rest-assured-4.3.0.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -49,59 +49,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.myshowsprofileTest">
+  <component name="RunManager" selected="JUnit.lab3.getApodByData">
     <configuration name="jetpacktravelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2Test.*" />
+          <option name="PATTERN" value="lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lab2Test" />
-      <option name="MAIN_CLASS_NAME" value="lab2Test.jetpacktravelTest" />
+      <option name="PACKAGE_NAME" value="lab2" />
+      <option name="MAIN_CLASS_NAME" value="lab2.jetpacktravelTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jetpacktravelTest.testCountry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testinglabs2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab2Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lab2Test" />
-      <option name="MAIN_CLASS_NAME" value="lab2Test.jetpacktravelTest" />
-      <option name="METHOD_NAME" value="testCountry" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab1.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="lab3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="lab1" />
-      <option name="METHOD_NAME" value="search" />
+      <option name="MAIN_CLASS_NAME" value="lab3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab3.getApod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinglabs2020" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="lab3" />
+      <option name="METHOD_NAME" value="getApod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myshowsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="lab3.getApodByData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab2Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lab2Test" />
-      <option name="MAIN_CLASS_NAME" value="lab2Test.myshowsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="lab3" />
+      <option name="METHOD_NAME" value="getApodByData" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,12 +98,12 @@
       <module name="testinglabs2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2Test.*" />
+          <option name="PATTERN" value="lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lab2Test" />
-      <option name="MAIN_CLASS_NAME" value="lab2Test.myshowsprofileTest" />
+      <option name="PACKAGE_NAME" value="lab2" />
+      <option name="MAIN_CLASS_NAME" value="lab2.myshowsprofileTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.lab3.getApodByData" />
+        <item itemvalue="JUnit.lab3.getApod" />
+        <item itemvalue="JUnit.lab3" />
         <item itemvalue="JUnit.myshowsprofileTest" />
         <item itemvalue="JUnit.jetpacktravelTest" />
-        <item itemvalue="JUnit.myshowsTest" />
-        <item itemvalue="JUnit.jetpacktravelTest.testCountry" />
-        <item itemvalue="JUnit.lab1.search" />
       </list>
     </recent_temporary>
   </component>

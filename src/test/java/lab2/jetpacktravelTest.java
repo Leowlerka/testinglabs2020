@@ -1,4 +1,4 @@
-package lab2Test;
+package lab2;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

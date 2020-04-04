@@ -1,4 +1,4 @@
-package lab2Test;
+package lab2;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
