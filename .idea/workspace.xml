@@ -31,11 +31,17 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs/rest-assured-4.3.0.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs/cucumber-junit-1.2.4.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\IdeaProjects\testinglabs2020\src\main\java\lab4" />
+      <recent name="C:\Users\ASUS\Documents\IdeaProjects\testinglabs2020\src\test\java\lab4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,17 +55,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.lab3.getApodByData">
-    <configuration name="jetpacktravelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.featuresTest">
+    <configuration name="featuresTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.*" />
+          <option name="PATTERN" value="lab4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lab2" />
-      <option name="MAIN_CLASS_NAME" value="lab2.jetpacktravelTest" />
+      <option name="PACKAGE_NAME" value="lab4" />
+      <option name="MAIN_CLASS_NAME" value="lab4.featuresTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.featuresTest" />
         <item itemvalue="JUnit.lab3.getApodByData" />
         <item itemvalue="JUnit.lab3.getApod" />
         <item itemvalue="JUnit.lab3" />
         <item itemvalue="JUnit.myshowsprofileTest" />
-        <item itemvalue="JUnit.jetpacktravelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +134,9 @@
       <updated>1584540776286</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
