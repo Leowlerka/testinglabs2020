@@ -10,7 +10,7 @@ import org.junit.*;
 
 public class jetpacktravelTest {
     private static WebDriver driver;
-    private static jetpacktravel page;
+    public static jetpacktravel page;
 
     @BeforeClass
     public static void init() {

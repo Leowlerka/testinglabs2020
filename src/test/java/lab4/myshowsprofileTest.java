@@ -1,7 +1,6 @@
 package lab4;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import lab2.myshowsprofile;
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
@@ -12,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class myshowsprofileTest {
     private static WebDriver driver;
-    private static myshowsprofile page;
+    public static myshowsprofile page;
 
     @BeforeClass
     public static void init() {

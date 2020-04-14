@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -25,17 +28,21 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1ZIyCeFwdQXdNDj7V85Z13eQtNI" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs/cucumber-junit-1.2.4.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.side.proportion" value="0.28275862" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -55,73 +62,100 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.featuresTest">
-    <configuration name="featuresTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.lab6Tests">
+    <configuration name="lab6Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab4.*" />
+          <option name="PATTERN" value="lab6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lab4" />
-      <option name="MAIN_CLASS_NAME" value="lab4.featuresTest" />
+      <option name="PACKAGE_NAME" value="lab6" />
+      <option name="MAIN_CLASS_NAME" value="lab6.lab6Tests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="lab6Tests.addExpenseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="lab3" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab3.getApod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testinglabs2020" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="lab3" />
-      <option name="METHOD_NAME" value="getApod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab6" />
+      <option name="MAIN_CLASS_NAME" value="lab6.lab6Tests" />
+      <option name="METHOD_NAME" value="addExpenseTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab3.getApodByData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="lab6Tests.loginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="lab3" />
-      <option name="METHOD_NAME" value="getApodByData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab6" />
+      <option name="MAIN_CLASS_NAME" value="lab6.lab6Tests" />
+      <option name="METHOD_NAME" value="loginTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myshowsprofileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="lab6Tests.registerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinglabs2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.*" />
+          <option name="PATTERN" value="lab6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lab2" />
-      <option name="MAIN_CLASS_NAME" value="lab2.myshowsprofileTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="lab6" />
+      <option name="MAIN_CLASS_NAME" value="lab6.lab6Tests" />
+      <option name="METHOD_NAME" value="registerTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab6Tests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinglabs2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab6" />
+      <option name="MAIN_CLASS_NAME" value="lab6.lab6Tests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.lab6Tests.test" />
+      <item itemvalue="JUnit.lab6Tests" />
+      <item itemvalue="JUnit.lab6Tests.registerTest" />
+      <item itemvalue="JUnit.lab6Tests.loginTest" />
+      <item itemvalue="JUnit.lab6Tests.addExpenseTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.featuresTest" />
-        <item itemvalue="JUnit.lab3.getApodByData" />
-        <item itemvalue="JUnit.lab3.getApod" />
-        <item itemvalue="JUnit.lab3" />
-        <item itemvalue="JUnit.myshowsprofileTest" />
+        <item itemvalue="JUnit.lab6Tests" />
+        <item itemvalue="JUnit.lab6Tests.addExpenseTest" />
+        <item itemvalue="JUnit.lab6Tests.loginTest" />
+        <item itemvalue="JUnit.lab6Tests.registerTest" />
+        <item itemvalue="JUnit.lab6Tests.test" />
       </list>
     </recent_temporary>
   </component>

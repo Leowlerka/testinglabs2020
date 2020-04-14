@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class myshowsTest {
     private static WebDriver driver;
-    private static myshows page;
+    public static myshows page;
 
     @BeforeClass
     public static void init() {

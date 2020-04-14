@@ -10,7 +10,7 @@ import org.junit.*;
 
 public class myshowsprofileTest {
     private static WebDriver driver;
-    private static myshowsprofile page;
+    public static myshowsprofile page;
 
     @BeforeClass
     public static void init() {

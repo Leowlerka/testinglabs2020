@@ -15,7 +15,8 @@ public class jetpacktravel {
     public jetpacktravel(WebDriver driver, String url) {
         this.driver = driver;
         driver.get(url);
-        (new WebDriverWait(driver, 100)).until((ExpectedCondition<Boolean>) d -> d.getTitle().toLowerCase().contains("jetpack travel"));
+        (new WebDriverWait(driver, 100)).until((ExpectedCondition<Boolean>)
+                d -> d.getTitle().toLowerCase().contains("jetpack travel"));
     }
 
     public boolean Login(String username, String phone, String mail, String text) {
